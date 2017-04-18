@@ -1,3 +1,1 @@
-"scripts": {
-  "start": "yarn dev"
-}
+web: yarn start:prod
