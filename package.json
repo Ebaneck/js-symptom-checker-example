@@ -7,9 +7,8 @@
   "scripts": {
     "lint": "eslint src/**/*.js webpack.config.js",
     "build": "webpack",
-    "dev": "webpack-dev-server",
-    "start": "yarn install",
-    "start": "yarb dev"
+    "dev": "webpack-dev-server"
+   
   },
   "dependencies": {
     "babel-core": "^6.22.1",
