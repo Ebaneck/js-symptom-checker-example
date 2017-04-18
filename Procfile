@@ -1,3 +1,3 @@
 "scripts": {
-  "start": "yarn build"
+  "start": "yarn dev"
 }
